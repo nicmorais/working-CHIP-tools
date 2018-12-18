@@ -1,5 +1,5 @@
 # CHIP-tools
-A collection of scripts for working with CHIP
+A collection of scripts for working with CHIP - now working.
 
 ## Requirements
 1) **sunxi-tools** from your package manager or from the [Sunxi repository](https://github.com/linux-sunxi/sunxi-tools.git)
@@ -12,3 +12,6 @@ This tool is used to download and flash the latest firmware release for CHIP. Th
 
 ### chip-create-nand-images
 This tool is used to generate local firmware images for CHIP and CHIP Pro.
+
+This version of CHIP-tools will download files from [jfpossibilities' mirror](http://chip.jfpossibilities.com), because the official repository is down.
+More info at http://www.chip-community.org/index.php/Archives
