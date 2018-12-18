@@ -1,0 +1,8 @@
+SAY "\n [ACM] Trying to login..."
+TIMEOUT 40
+'' \n ogin:-\n-login: root\n assword: chip\n '# ' ''
+SAY "\n [ACM] Successfully logged in"
+TIMEOUT 40
+'# ' '/sbin/poweroff'
+SAY "\n [ACM] Powering off..."
+TIMEOUT 40
