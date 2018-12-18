@@ -128,7 +128,7 @@ case "${WHAT}" in
   "pocketchip")
     BR_BUILD=123
     BUILD=123
-    ROOTFS_URL="http://opensource.nextthing.co/pocketchip"
+    ROOTFS_URL="http://chip.jfpossibilities.com/chip/debian/pocketchip/"
     BR_URL="$ROOTFS_URL"
     ;;
 esac 
