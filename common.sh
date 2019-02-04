@@ -20,7 +20,7 @@ if [[ -z ${CHECK_DEPS} ]]; then
     if [[ -z $(which $TOOL) ]]; then
       echo "  Error: Unable to locate $TOOL utility."
       echo "  Install $TOOL with:"
-      echo "  CHIP-SDK setup script      [github.com/NextThingCo/CHIP-SDK]"
+      echo "  CHIP-SDK setup script  [https://github.com/nicmorais/working-CHIP-SDK]"
       exit 1
     fi
   done
